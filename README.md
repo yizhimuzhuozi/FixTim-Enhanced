@@ -155,8 +155,8 @@ sudo /Applications/FixTim.app/Contents/MacOS/FixTim --now
 
 ---
 
-##original author
-### GitHub
+## original author
+#### GitHub
 https://github.com/Lakr233/FixTim
-### Twitter
+#### Twitter
 https://x.com/Lakr233
