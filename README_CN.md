@@ -156,4 +156,4 @@ sudo /Applications/FixTim.app/Contents/MacOS/FixTim --now
 ---
 
 ##
-我使用这个项目：https://github.com/Lakr233/FixTim/issues 做的修改。
+我使用这个项目：https://github.com/Lakr233/FixTim 做的修改。
