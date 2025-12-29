@@ -18,7 +18,7 @@ let documentDir = FileManager.default.urls(
 let dockLayoutBackup = documentDir
     .appendingPathComponent(".com.apple.dock.backup")
     .appendingPathExtension("plist")
-let sourceCodeURL = URL(string: "https://github.com/Lakr233/FixTim")!
+let sourceCodeURL = URL(string: "https://github.com/yizhimuzhuozi/FixTim-Enhanced")!
 
 @main
 struct FixTim: App {
@@ -118,7 +118,7 @@ struct ContentView: View {
             HStack {
                 Text(
                     """
-                    Made with love by [@Lakr233](https://twitter.com/@Lakr233) & Photo by [@jccards](https://unsplash.com/@jccards)
+                    Made with love by [@akuntime](https://x.com/akuntime) & Photo by [@akuntime](https://unsplash.com/@akuntime)
                     """
                 )
                 Spacer()
